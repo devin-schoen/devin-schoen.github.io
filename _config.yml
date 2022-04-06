@@ -1,2 +1,4 @@
 name: Devin Schoen, Physics Enthusiast
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
